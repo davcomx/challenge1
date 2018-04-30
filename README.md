@@ -11,11 +11,9 @@ Your program should respond with ‘yes’ if city1 is connected to city2, ’no’ if c
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-
-What things you need to install the software and how to install them
 
 ```
 Download Eclipse + Buildship Gradle Integration 2.0 
@@ -24,7 +22,8 @@ Download Eclipse + Buildship Gradle Integration 2.0
 ## Running the tests
 
 ```
-Right click on Challenge1Application.java + Run As + JUnit Test
+path: /src/test/java/com/dl/Challenge1ApplicationTests.java
+command: Right click on Challenge1ApplicationTests.java + Run As + JUnit Test
 Eclipse shortcut: Alt+Shift+X, T
 ```
 
